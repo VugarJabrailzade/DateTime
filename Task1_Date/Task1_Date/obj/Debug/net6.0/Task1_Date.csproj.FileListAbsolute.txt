@@ -1,0 +1,15 @@
+C:\Users\vcebr\OneDrive\Desktop\DateTime\Task1_Date\Task1_Date\bin\Debug\net6.0\Task1_Date.exe
+C:\Users\vcebr\OneDrive\Desktop\DateTime\Task1_Date\Task1_Date\bin\Debug\net6.0\Task1_Date.deps.json
+C:\Users\vcebr\OneDrive\Desktop\DateTime\Task1_Date\Task1_Date\bin\Debug\net6.0\Task1_Date.runtimeconfig.json
+C:\Users\vcebr\OneDrive\Desktop\DateTime\Task1_Date\Task1_Date\bin\Debug\net6.0\Task1_Date.dll
+C:\Users\vcebr\OneDrive\Desktop\DateTime\Task1_Date\Task1_Date\bin\Debug\net6.0\Task1_Date.pdb
+C:\Users\vcebr\OneDrive\Desktop\DateTime\Task1_Date\Task1_Date\obj\Debug\net6.0\Task1_Date.csproj.AssemblyReference.cache
+C:\Users\vcebr\OneDrive\Desktop\DateTime\Task1_Date\Task1_Date\obj\Debug\net6.0\Task1_Date.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vcebr\OneDrive\Desktop\DateTime\Task1_Date\Task1_Date\obj\Debug\net6.0\Task1_Date.AssemblyInfoInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\DateTime\Task1_Date\Task1_Date\obj\Debug\net6.0\Task1_Date.AssemblyInfo.cs
+C:\Users\vcebr\OneDrive\Desktop\DateTime\Task1_Date\Task1_Date\obj\Debug\net6.0\Task1_Date.csproj.CoreCompileInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\DateTime\Task1_Date\Task1_Date\obj\Debug\net6.0\Task1_Date.dll
+C:\Users\vcebr\OneDrive\Desktop\DateTime\Task1_Date\Task1_Date\obj\Debug\net6.0\refint\Task1_Date.dll
+C:\Users\vcebr\OneDrive\Desktop\DateTime\Task1_Date\Task1_Date\obj\Debug\net6.0\Task1_Date.pdb
+C:\Users\vcebr\OneDrive\Desktop\DateTime\Task1_Date\Task1_Date\obj\Debug\net6.0\Task1_Date.genruntimeconfig.cache
+C:\Users\vcebr\OneDrive\Desktop\DateTime\Task1_Date\Task1_Date\obj\Debug\net6.0\ref\Task1_Date.dll
